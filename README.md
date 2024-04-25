@@ -1,4 +1,5 @@
-# GMRES_MPI_Fortran
+# Distributed parallel solution of a linear system using GMRES
+## By: Amirehsan Ghasmei
 
 
 
