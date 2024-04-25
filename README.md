@@ -12,5 +12,7 @@ mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -
 2)  **custom_gmres.f90 => Implicit Solution**
 ---
 
+Recommended Citation & Final report:
+DOI: 10.13140/RG.2.2.17501.42727
 
 
