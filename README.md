@@ -14,7 +14,3 @@ mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -
 
 
 
-
-
-
-
