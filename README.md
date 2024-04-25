@@ -16,3 +16,7 @@ mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -
 
 
 
+
+<video src="https://github.com/AEghasemi/GMRES_MPI_Fortran/assets/93692630/7cb6a772-0233-44da-a6e0-9703a252d2d2"/>
+
+
