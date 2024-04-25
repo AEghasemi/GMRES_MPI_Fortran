@@ -1,8 +1,8 @@
-# Distributed parallel solution of a linear system using GMRES
-## Submitted to Professor Jack Dongarra
-### Final report: Scientific Computing for Engineers, CS594, Spring 2022
-#### By: Amirehsan Ghasmei
-##### Bredesen Center for Interdisciplinary Research and Graduate Education, University of Tennessee, Knoxville, TN 37996, USA. Email: aghasemi@vols.utk.edu
+# $$\text{Distributed parallel solution of a linear system using GMRES}$$
+## $$\text{\color{red}{Submitted to Professor Jack Dongarra}}$$
+#### $$\text{Final report: Scientific Computing for Engineers, CS594, Spring 2022}$$
+### $$\text{By: Amirehsan Ghasmei*}$$
+##### *Bredesen Center for Interdisciplinary Research and Graduate Education, University of Tennessee, Knoxville, TN 37996, USA. Email: aghasemi@vols.utk.edu
 ---
 ***Codes in the src folder:*** 
 1)  **laplace_par.f90  => Explicit Solution** \
