@@ -8,7 +8,7 @@
 !            University of Tennessee, Knoxville, TN 37996, USA            -
 !     Copyright@ 2024 -  Amirehsan Ghasmei. All rights reserved.          -
 !--------------------------------------------------------------------------
-!                  Recommended Citation & Fianl report                    -
+!                  Recommended Citation & PDF final report                -
 !             DOI: https://doi.org/10.13140/RG.2.2.17501.42727            -
 !--------------------------------------------------------------------------
   ! suggest compile with something like:
