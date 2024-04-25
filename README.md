@@ -1,4 +1,4 @@
-<h1>Distributed parallel solution of a linear system using GMRES</h1>
+# Distributed parallel solution of a linear system using GMRES
 ## Submitted to Professor Jack Dongarra
 ### Final report: Scientific Computing for Engineers, CS594, Spring 2022
 #### By: Amirehsan Ghasmei
