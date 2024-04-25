@@ -8,6 +8,9 @@
 !            University of Tennessee, Knoxville, TN 37996, USA            -
 !     Copyright@ 2024 -  Amirehsan Ghasmei. All rights reserved.          -
 !--------------------------------------------------------------------------
+!                  Recommended Citation & Fianl report                    -
+!                   DOI: 10.13140/RG.2.2.17501.42727                      -
+!--------------------------------------------------------------------------
 module custom_gmres
   use mpi
   implicit none

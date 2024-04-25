@@ -8,6 +8,9 @@
 !            University of Tennessee, Knoxville, TN 37996, USA            -
 !     Copyright@ 2024 -  Amirehsan Ghasmei. All rights reserved.          -
 !--------------------------------------------------------------------------
+!                  Recommended Citation & Fianl report                    -
+!                   DOI: 10.13140/RG.2.2.17501.42727                      -
+!--------------------------------------------------------------------------
   ! suggest compile with something like:
   ! mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -Wall -Wextra -Wconversion -Wunderflow laplace_par.f90
 module lap
