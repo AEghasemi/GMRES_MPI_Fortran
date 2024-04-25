@@ -6,6 +6,8 @@
 ---
 Codes in src folder: 
 1)  laplace_par.f90  => Explicit Solution
-2)  suggest compile with something like: mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -Wall -Wextra -Wconversion -Wunderflow laplace_par.f90
-3)  custom_gmres.f90 => Implicit Solution
+suggest compile with something like:
+mpif90 -Og -g -fimplicit-none -fcheck=all -fbacktrace -pedantic -fbounds-check -Wall -Wextra -Wconversion -Wunderflow laplace_par.f90
+
+3)  **custom_gmres.f90 => Implicit Solution**
 ---
